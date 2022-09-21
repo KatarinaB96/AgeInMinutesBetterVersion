@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AgeInMinutesBetterVersion</string>
+    <string name="calculate_your">Calculate your</string>
+    <string name="age">AGE</string>
+    <string name="in_minutes">in minutes</string>
+    <string name="select_date">Select date</string>
+    <string name="selected_date">Selected date:</string>
+    <string name="result">Result</string>
+    <string name="age_dialog_positive_text">Wow, that is great!</string>
+    <string name="dialog_title">Your age in minutes is:</string>
+    <string name="action_bar_title">Calculate your age in minutes</string>
+    <string name="toast_message_wrong_date">You picked a wrong date, please try again :)</string>
+
+    <string name="light_off_text">Light is off</string>
+    <string name="light_on_text">Light on</string>
+    <string name="empty_text" />
+
+</resources>

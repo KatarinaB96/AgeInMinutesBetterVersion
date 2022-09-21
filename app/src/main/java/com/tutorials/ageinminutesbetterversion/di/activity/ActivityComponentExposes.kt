@@ -1,0 +1,6 @@
+package com.tutorials.ageinminutesbetterversion.di.activity
+
+import com.tutorials.ageinminutesbetterversion.di.activity.module.ActivityModule
+import com.tutorials.ageinminutesbetterversion.di.application.ApplicationComponentExposes
+
+interface ActivityComponentExposes :ActivityModule.Exposes, ApplicationComponentExposes

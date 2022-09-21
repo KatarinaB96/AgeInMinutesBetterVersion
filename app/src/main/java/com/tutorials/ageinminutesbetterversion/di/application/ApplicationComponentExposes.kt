@@ -1,0 +1,5 @@
+package com.tutorials.ageinminutesbetterversion.di.application
+
+import com.tutorials.ageinminutesbetterversion.di.application.module.ApplicationModule
+
+interface ApplicationComponentExposes : ApplicationModule.Exposes
