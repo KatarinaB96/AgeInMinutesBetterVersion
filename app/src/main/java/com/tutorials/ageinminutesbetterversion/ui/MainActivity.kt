@@ -89,9 +89,9 @@ class MainActivity : BaseActivity() {
         dialog.show()
         dialog.setCancelable(true)
 
-        val b = dialog.getButton(DialogInterface.BUTTON_POSITIVE)
-        if (b != null) {
-            b.setTextColor(R.drawable.button)
+        val positiveButton = dialog.getButton(DialogInterface.BUTTON_POSITIVE)
+        if (positiveButton != null) {
+            positiveButton.setTextColor(R.drawable.button)
         }
 
         binding.ageInMinutes.text = result.toString()
